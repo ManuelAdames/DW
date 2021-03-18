@@ -1,6 +1,10 @@
 module.exports = [
     {
       id: 1,
-      text: 'Hello World',
+      text: 'Hola',
     },
+    {
+      id: 2,
+      text: 'Mundo',
+    }
 ];
